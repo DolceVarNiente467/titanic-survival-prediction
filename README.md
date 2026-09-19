@@ -1,5 +1,5 @@
-<img width="2880" height="901" alt="thwpNs" src="https://github.com/user-attachments/assets/bcf810f6-085b-440c-b6be-c842b576cff8" />
-<img width="1280" height="690" alt="8444736" src="https://github.com/user-attachments/assets/d9ba5be9-b96e-4f34-abcb-5c6e304a7e72" />
+<img alt="thwpNs" src="https://github.com/user-attachments/assets/bcf810f6-085b-440c-b6be-c842b576cff8" width="70%" />
+
 
 [English](#english) | [عربي](#عربي)
 
@@ -25,6 +25,7 @@ Data from [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/ti
 By Shahad, IT student
 
 ---
+<img alt="8444736" src="https://github.com/user-attachments/assets/d9ba5be9-b96e-4f34-abcb-5c6e304a7e72" width="70%" />
 
 ## عربي
 
